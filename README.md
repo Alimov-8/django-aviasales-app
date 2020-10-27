@@ -1,8 +1,8 @@
-# Django YouTube tutorial (Telesko)
-Starting Learning Django
+# Airways Register Web Apllication ✈️ 
+### Django YouTube tutorial (Telesko) 📹
+Starting Learning Django 🚀 My first Web application using Djang framework 
 
-# -------------------
-
+# My Steps:
 - Django Setup
 - Django Templates
 - Addition 2 numbers
